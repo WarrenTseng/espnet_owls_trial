@@ -19,7 +19,7 @@ This project demonstrates speech recognition capabilities using the ESPnet 4B Ow
 ## Installation
 
 ### Pull the docker image
-This docker image is based on [NVIDIA NeMo Framework](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/nemo) nvcr.io/nvidia/nemo:24.01.speech 
+This docker image is based on [NVIDIA NeMo Framework](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/nemo) `nvcr.io/nvidia/nemo:24.01.speech`
 ```bash
 docker pull warrents/espnet:202503
 ```
