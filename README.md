@@ -1,4 +1,4 @@
-# 4B Owls Speech Recognition Trial
+# Espnet Owls Speech Recognition Trial
 
 ## Description
 This project demonstrates speech recognition capabilities using the ESPnet 4B Owls model. The notebook showcases:
