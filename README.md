@@ -9,7 +9,7 @@ This project demonstrates speech recognition capabilities using the ESPnet 4B Ow
 ### Hardware Requirements
 - CUDA-capable GPU
 - Recommended GPU Specifications:
-  - 4B Model: Minimum 40 GB vRAM (tested on L40)
+  - 4B Model: 40 GB vRAM recommended (tested on L40)
   - 9B Model: 55-60 GB vRAM recommended
 
 ### Software Requirements
